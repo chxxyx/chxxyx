@@ -1,15 +1,17 @@
 
-<!--
-**chxxyx/chxxyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wave](https://user-images.githubusercontent.com/102597172/200115696-b6abe28c-dfd7-4211-a399-a7c45ac071aa.svg#gh-dark-mode-only)
+![Wave](https://user-images.githubusercontent.com/102597172/200126741-aeb6e5ea-8a6f-47cd-b36c-f345b3d89a63.svg#gh-light-mode-only) 
+
+<img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/><br>
+<img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=000000"/>
+<img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=000000"/><br>
+
+<img src="https://img.shields.io/badge/intellij IDEA-ffffff?style=flat-square&logo=intellij-idea&logoColor=000000"/>
+<img src="https://img.shields.io/badge/eclipse-ffffff?style=flat-square&logo=eclipse&logoColor=000000"/><br>
+</div>
