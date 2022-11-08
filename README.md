@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=MariaDB&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/><br>
 
