@@ -22,15 +22,15 @@
 
 
 <img src="https://user-images.githubusercontent.com/102597172/200438402-717fbef4-010b-434f-a1f7-18002d7e510c.png" width=30%><br><br>
-
+  <br>
+<img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
+  <br> 
   :headphones:
-  <br>
-  <br>
+  <br><br>
   
 <img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=MariaDB&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=000000"/><br>
-  
 <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/><br>
 
@@ -44,7 +44,6 @@
 
   <br><br>
   
-<img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
 
   
 </td>
