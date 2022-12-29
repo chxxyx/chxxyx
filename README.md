@@ -5,25 +5,12 @@
 
 <tr align="center">
 
-<td>
 
-  
-![chart (3)](https://user-images.githubusercontent.com/97508297/200445110-7f689f23-29f8-4cc4-9252-06165cdb185c.png)
-
-
-
-
-
-</td>
 <td>
   <br><br>
 
 <img src="https://user-images.githubusercontent.com/102597172/200370483-8cd25c7f-c4d6-4b2c-891c-4358643f4f49.png" width=50%>
 
-
-<img src="https://user-images.githubusercontent.com/102597172/200438402-717fbef4-010b-434f-a1f7-18002d7e510c.png" width=30%><br><br>
-  <br>
-<img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
   <br> 
   :headphones:
   <br><br>
@@ -42,6 +29,9 @@
 <img src="https://img.shields.io/badge/intellij IDEA-ffffff?style=flat-square&logo=intellij-idea&logoColor=000000"/>
 <img src="https://img.shields.io/badge/eclipse-ffffff?style=flat-square&logo=eclipse&logoColor=000000"/><br>
  
+  <br>
+<img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
+
 
   <br><br>
   
