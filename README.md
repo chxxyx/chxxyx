@@ -1,14 +1,7 @@
-
-
-
 <table>
-
 <tr align="center">
-
-
 <td>
-  <br><br>
-
+  <br>
 <img src="https://user-images.githubusercontent.com/102597172/200370483-8cd25c7f-c4d6-4b2c-891c-4358643f4f49.png" width=50%>
 
   <br> 
@@ -31,12 +24,7 @@
  
   <br>
 <img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
-
-
   <br><br>
-  
-
-  
 </td>
 
 
