@@ -30,8 +30,9 @@
 
 </table>
 
-![Wave](https://user-images.githubusercontent.com/102597172/200115696-b6abe28c-dfd7-4211-a399-a7c45ac071aa.svg#gh-dark-mode-only)
-![Wave](https://user-images.githubusercontent.com/102597172/200126741-aeb6e5ea-8a6f-47cd-b36c-f345b3d89a63.svg#gh-light-mode-only) 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102597172/200115696-b6abe28c-dfd7-4211-a399-a7c45ac071aa.svg#gh-dark-mode-only"><img src="https://user-images.githubusercontent.com/102597172/200115696-b6abe28c-dfd7-4211-a399-a7c45ac071aa.svg#gh-dark-mode-only" alt="Wave" width=100%;></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102597172/200126741-aeb6e5ea-8a6f-47cd-b36c-f345b3d89a63.svg#gh-light-mode-only"><img src="https://user-images.githubusercontent.com/102597172/200126741-aeb6e5ea-8a6f-47cd-b36c-f345b3d89a63.svg#gh-light-mode-only" alt="Wave" width=100%;></a>
 
 
 
