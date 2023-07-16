@@ -22,8 +22,11 @@
 
 <img src="https://img.shields.io/badge/intellij IDEA-ffffff?style=flat-square&logo=intellij-idea&logoColor=000000"/>
 <img src="https://img.shields.io/badge/eclipse-ffffff?style=flat-square&logo=eclipse&logoColor=000000"/>
-<img src="https://img.shields.io/badge/visualstudiocode-ffffff?style=flat-square&logo=visualstudiocode&logoColor=000000"/>
-<br>
+<img src="https://img.shields.io/badge/VsCode-ffffff?style=flat-square&logo=visualstudiocode&logoColor=000000"/><br>
+
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Slack-ffffff?style=flat-square&logo=Slack&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=Figma&logoColor=000000"/><br>
  
   <br>
 <img src="https://user-images.githubusercontent.com/102597172/200370502-f6cc3163-16b0-4b9c-a4d6-a95a56b9dc3f.png" width=50%>
