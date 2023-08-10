@@ -8,14 +8,15 @@
   :headphones:
   <br><br>
   
- <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/><br>
-
+<img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=000000"/> <br />
 <img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=MariaDB&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Redis-ffffff?style=flat-square&logo=Redis&logoColor=000000"/><br>
+
 <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=000000"/>
 <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=000000"/>
 <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=000000"/><br>
