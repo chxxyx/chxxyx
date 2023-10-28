@@ -8,14 +8,13 @@
   :headphones:
   <br><br>
   
-<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/> </br>
-
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=TypeScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nest.js-ffffff?style=flat-square&logo=nestjs&logoColor=000000"/><br />
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/> </br>
 
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=000000"/>
 <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=PostgreSQL&logoColor=000000"/>
