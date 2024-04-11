@@ -3,7 +3,7 @@
 <!-- <table align="center">
 <tr align="center">
 <td > -->
-   <img src="https://github.com/chxxyx/chxxyx/assets/97508297/93c53b4c-ebb9-402b-9052-e07964545121" width=25%>
+   <img src="https://github.com/chxxyx/chxxyx/assets/97508297/93c53b4c-ebb9-402b-9052-e07964545121" width=30%>
   <br>
 <!-- <img src="https://user-images.githubusercontent.com/102597172/200370483-8cd25c7f-c4d6-4b2c-891c-4358643f4f49.png" width=50%> -->
   <br> 
