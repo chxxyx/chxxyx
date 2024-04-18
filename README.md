@@ -9,7 +9,6 @@
   <br> 
   :dango:
   :fish_cake:
-  :butter:
   <br><br>
   
 <img src="https://img.shields.io/badge/JavaScript-F5F5DC?style=flat&logo=javascript&logoColor=2A292B&labelColor=F5F5DC"/>
