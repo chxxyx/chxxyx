@@ -8,7 +8,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/102597172/200370483-8cd25c7f-c4d6-4b2c-891c-4358643f4f49.png" width=50%> -->
   <br> 
   :dango:
-  :fish_cake:
   <br><br>
   
 <img src="https://img.shields.io/badge/JavaScript-F5F5DC?style=flat&logo=javascript&logoColor=2A292B&labelColor=F5F5DC"/>
