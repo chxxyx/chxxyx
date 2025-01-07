@@ -10,15 +10,18 @@
 <img src="https://img.shields.io/badge/JavaScript-F5F5DC?style=flat&logo=javascript&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/TypeScript-F5F5DC?style=flat&logo=TypeScript&logoColor=2A292B&labelColor=F5F5DC"/><br>
 <img src="https://img.shields.io/badge/Node.js-F5F5DC?style=flat&logo=Node.js&logoColor=2A292B&labelColor=F5F5DC"/>
-<img src="https://img.shields.io/badge/Nest.js-F5F5DC?style=flat&logo=nestjs&logoColor=2A292B&labelColor=F5F5DC"/><br />
+<img src="https://img.shields.io/badge/Nest.js-F5F5DC?style=flat&logo=nestjs&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/React-F5F5DC?style=flat&logo=react&logoColor=2A292B&labelColor=F5F5DC"/><br />
 <!-- <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/> -->
 <!-- <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/> -->
 <!-- <img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/> </br> -->
 
 <img src="https://img.shields.io/badge/MySQL-F5F5DC?style=flat&logo=MySQL&logoColor=2A292B&labelColor=F5F5DC"/>
-<img src="https://img.shields.io/badge/MSSQL-F5F5DC?style=flat&logo=Microsoft SQL Server&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/MSSQL-F5F5DC?style=flat&logo=Microsoft SQL Server&logoColor=2A292B&labelColor=F5F5DC"/><br>
 <!--  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=PostgreSQL&logoColor=000000"/> -->
-<img src="https://img.shields.io/badge/Redis-F5F5DC?style=flat&logo=Redis&logoColor=2A292B&labelColor=F5F5DC"/><br>
+<img src="https://img.shields.io/badge/Redis-F5F5DC?style=flat&logo=redis&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/MongoDB-F5F5DC?style=flat&logo=mongodb&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/PostgreSQL-F5F5DC?style=flat&logo=postgresql&logoColor=2A292B&labelColor=F5F5DC"/><br>
 
 <img src="https://img.shields.io/badge/Intellij IDEA-F5F5DC?style=flat&logo=intellij-idea&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/VsCode-F5F5DC?style=flat&logo=visualstudiocode&logoColor=2A292B&labelColor=F5F5DC"/><br>
@@ -26,8 +29,9 @@
 <img src="https://img.shields.io/badge/Docker-F5F5DC?style=flat&logo=docker&logoColor=2A292B&labelColor=F5F5DC"/></br>
 
 <img src="https://img.shields.io/badge/Notion-F5F5DC?style=flat&logo=Notion&logoColor=2A292B&labelColor=F5F5DC"/>
-<img src="https://img.shields.io/badge/Slack-F5F5DC?style=flat&logo=Slack&logoColor=2A292B&labelColor=F5F5DC"/>
-<img src="https://img.shields.io/badge/Figma-F5F5DC?style=flat&logo=Figma&logoColor=2A292B&labelColor=F5F5DC"/><br>
+<img src="https://img.shields.io/badge/Slack-F5F5DC?style=flat&logo=Slack&logoColor=2A292B&labelColor=F5F5DC"/><br>
+<img src="https://img.shields.io/badge/Figma-F5F5DC?style=flat&logo=Figma&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/jira-F5F5DC?style=flat&logo=jira&logoColor=2A292B&labelColor=F5F5DC"/>
 
 
   <br>
