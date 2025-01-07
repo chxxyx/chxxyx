@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Node.js-F5F5DC?style=flat&logo=Node.js&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/Nest.js-F5F5DC?style=flat&logo=nestjs&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/React-F5F5DC?style=flat&logo=react&logoColor=2A292B&labelColor=F5F5DC"/><br />
+<img src="https://img.shields.io/badge/TypeORM-F5F5DC?style=flat&logo=typeorm&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/Prisma-F5F5DC?style=flat&logo=prisma&logoColor=2A292B&labelColor=F5F5DC"/><br />
 <!-- <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=000000"/> -->
 <!-- <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/> -->
 <!-- <img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/> </br> -->
