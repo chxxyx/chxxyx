@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Intellij IDEA-F5F5DC?style=flat&logo=intellij-idea&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/VsCode-F5F5DC?style=flat&logo=visualstudiocode&logoColor=2A292B&labelColor=F5F5DC"/><br>
-<img src="https://img.shields.io/badge/AWS-F5F5DC?style=flat&logo=AmazonAWS&logoColor=2A292B&labelColor=F5F5DC"/>
+<img src="https://img.shields.io/badge/AWS-F5F5DC?style=flat&logo=aws&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/Docker-F5F5DC?style=flat&logo=docker&logoColor=2A292B&labelColor=F5F5DC"/></br>
 
 <img src="https://img.shields.io/badge/Notion-F5F5DC?style=flat&logo=Notion&logoColor=2A292B&labelColor=F5F5DC"/>
