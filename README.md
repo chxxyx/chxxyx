@@ -6,7 +6,7 @@
 <!--    <img src="https://github.com/chxxyx/chxxyx/assets/97508297/93c53b4c-ebb9-402b-9052-e07964545121" width=30%> -->
   <br>
 <!-- <img src="https://user-images.githubusercontent.com/102597172/200370483-8cd25c7f-c4d6-4b2c-891c-4358643f4f49.png" width=50%> -->
-  
+
 <img src="https://img.shields.io/badge/JavaScript-F5F5DC?style=flat&logo=javascript&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/TypeScript-F5F5DC?style=flat&logo=TypeScript&logoColor=2A292B&labelColor=F5F5DC"/><br>
 <img src="https://img.shields.io/badge/Node.js-F5F5DC?style=flat&logo=Node.js&logoColor=2A292B&labelColor=F5F5DC"/>
@@ -18,8 +18,8 @@
 <!-- <img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=000000"/> -->
 <!-- <img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/> </br> -->
 
+
 <img src="https://img.shields.io/badge/MySQL-F5F5DC?style=flat&logo=MySQL&logoColor=2A292B&labelColor=F5F5DC"/>
-<img src="https://img.shields.io/badge/MSSQL-F5F5DC?style=flat&logo=Microsoft SQL Server&logoColor=2A292B&labelColor=F5F5DC"/><br>
 <!--  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=PostgreSQL&logoColor=000000"/> -->
 <img src="https://img.shields.io/badge/Redis-F5F5DC?style=flat&logo=redis&logoColor=2A292B&labelColor=F5F5DC"/>
 <img src="https://img.shields.io/badge/MongoDB-F5F5DC?style=flat&logo=mongodb&logoColor=2A292B&labelColor=F5F5DC"/>
